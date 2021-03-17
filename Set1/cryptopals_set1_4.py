@@ -63,6 +63,9 @@ if __name__ == '__main__':
     
     #print(f'{j}:{t},{score}')
 
+"""
+这是我在做challenge6的时候修改的。因为之前的不太适应challenge6。
+"""
 #set1_4
 
 def ciphertext_XOR(s) :
